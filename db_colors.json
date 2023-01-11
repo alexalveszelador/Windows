@@ -1,0 +1,128 @@
+{
+  "success": true,
+  "data": {
+    "interior_colors": [
+      {
+        "colors_id": "abf16d42-38a2-4d1c-9c2f-bfcc5624e229",
+        "name": "Brownstone",
+        "custom_name": "",
+        "hex_code": "#593D39",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.550000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "58869783-9981-41db-aff1-ac96096d6abe",
+        "name": "Canyon Clay",
+        "custom_name": "",
+        "hex_code": "#BCB9A5",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.550000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "724335ef-9344-4fb6-b57a-83f7f46ff767",
+        "name": "Commercial Brown",
+        "custom_name": "",
+        "hex_code": "#503528",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.550000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "d7e6b10b-692f-4019-8f5c-349ce3fb956b",
+        "name": "WHITE ICE",
+        "custom_name": "WHITE ICE",
+        "hex_code": "#DCE3E3",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.550000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "52b18018-2741-42c4-9675-25f70f1a16d2",
+        "name": "Ivy Green",
+        "custom_name": "",
+        "hex_code": "#5A6E71",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.550000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "7391372c-7238-43f7-a72f-860251ace6d8",
+        "name": "Sandalwood 411",
+        "custom_name": "",
+        "hex_code": "#A89D91",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.550000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "321186c4-c31b-4a5a-84ba-e828b0dafc0c",
+        "name": "Tan",
+        "custom_name": "",
+        "hex_code": "#AD998B",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.550000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "f6ebd2fd-13b6-4f2f-a679-74fb5b654248",
+        "name": "Window Bronze",
+        "custom_name": "",
+        "hex_code": "#827A6F",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.550000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "8cbd265d-5389-4a09-a7c3-15ca7290274a",
+        "name": "Country Red XL",
+        "custom_name": "",
+        "hex_code": "#662E2D",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.550000000000000000000000000000000000000000"
+      }
+    ],
+    "exterior_colors": [
+      {
+        "colors_id": "8e96ab18-1676-42e1-a64e-77ea9f0fe78b",
+        "name": "COPPER",
+        "custom_name": "COPPER",
+        "hex_code": "#824A22",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.825000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "e54ab81c-e333-4c6d-8208-b39cb8b3d655",
+        "name": "Dover Gray",
+        "custom_name": "",
+        "hex_code": "#B7BFC3",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "0.825000000000000000000000000000000000000000"
+      }
+    ],
+    "hardware_colors": [
+      {
+        "colors_id": "52b18018-2741-42c4-9675-25f70f1a16d2",
+        "name": "IVY GREEN",
+        "custom_name": "IVY GREEN",
+        "hex_code": "#5A6E71",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "1.100000000000000000000000000000000000000000"
+      },
+      {
+        "colors_id": "cb735c67-1070-4618-9693-a6f1ad8a1291",
+        "name": "Pebble",
+        "custom_name": "",
+        "hex_code": "#787064",
+        "support_split_finish": false,
+        "support_interior_color": true,
+        "price": "1.100000000000000000000000000000000000000000"
+      }
+    ]
+  }
+}
